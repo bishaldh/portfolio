@@ -1,0 +1,30 @@
+{
+  "name": "bishal-dahal-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "aos": "^2.3.4",
+    "swiper": "^11.0.5",
+    "typed.js": "^2.1.0",
+    "@emailjs/browser": "^3.11.0",
+    "glightbox": "^3.3.0",
+    "isotope-layout": "^3.0.6",
+    "imagesloaded": "^5.0.0",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
+
